@@ -1,0 +1,4 @@
+interface:
+  display_name: "差旅报销整理"
+  short_description: "按票据与公司模板整理差旅报销，核对退改签费及按岗位分档的出差补助"
+  default_prompt: "请使用 $travel-reimbursement，按我提供的票据和报销模板整理本次报销，并核对我的岗位补助标准。"

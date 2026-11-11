@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "travel-reimbursement",
+  "version": "1.0.0",
+  "description": "按票据与 Excel 模板整理差旅报销，核对退改签费用、发票号码、分档补助与合计，并保留模板格式。"
+}
